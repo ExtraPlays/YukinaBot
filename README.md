@@ -12,7 +12,11 @@ $cd YukinaBot
     "TOKEN": "TOKEN_DO_SEU_BOT"
 }
 ```
+ Agora use para instalar as Dependencias.
 ```sh
 $npm install
+```
+ Apos instalar as Dependencias.
+```sh
 $node bot.js
 ```
