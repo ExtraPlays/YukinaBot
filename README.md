@@ -2,8 +2,8 @@
 
 ## Instalação 
 ```sh
-$git clone https://github.com/ExtraPlays/YukinaBot.git
-$cd YukinaBot
+git clone https://github.com/ExtraPlays/YukinaBot.git
+cd YukinaBot
 ```
  Crie um arquivo chamado config.json
 
@@ -14,9 +14,9 @@ $cd YukinaBot
 ```
  Agora use para instalar as Dependencias.
 ```sh
-$npm install
+npm install
 ```
  Apos instalar as Dependencias.
 ```sh
-$node bot.js
+node bot.js
 ```
