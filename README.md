@@ -1,6 +1,6 @@
 # YukinaBot
 
-[![Build Status](https://github.com/ExtraPlays/YukinaBot)]
+[![Build Status](https://github.com/ExtraPlays/YukinaBot/?branch=master)](https://github.com/ExtraPlays/YukinaBot/)
 
 ## Instalação 
 ```sh
